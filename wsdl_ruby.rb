@@ -13,3 +13,8 @@ out.each do |b|
   puts b.categoryName
 end
 
+
+get '/' do
+  "Hello World!"
+end
+
