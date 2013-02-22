@@ -1,5 +1,5 @@
 $stdout.sync = true
 
-require './wsdl_ruby'
+require './web'
 run Sinatra::Application
-run wsdl_ruby.rb
+run web.rb
