@@ -1,0 +1,12 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    httpclient (2.1.5.2)
+    soap5r (2.0.3)
+      httpclient (~> 2.1.5.2)
+
+PLATFORMS
+  x86-mingw32
+
+DEPENDENCIES
+  soap5r
